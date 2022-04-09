@@ -1,0 +1,44 @@
+{
+    "title": "Geography",
+    "total": "10",
+    "1": {
+        "question": "What are the names of the five oceans of the world?",
+        "answer": "Atlantic, Pacific, Indian, Arctic, Antarctic"
+    },
+    "2": {
+        "question": "What is the name of the longest river in Africa?",
+        "answer": "The Nile River"
+    },
+    "3": {
+        "question": "What American city is the Golden Gate Bridge located in?",
+        "answer": "San Francisco"
+    },
+    "4": {
+        "question": "What is the capital of Mexico?",
+        "answer": "Mexico City"
+    },
+    "5": {
+        "question": "What U.S. state is home to no documented poisonous snakes?",
+        "answer": "Alaska"
+    },
+    "6": {
+        "question": "What is the capital of Canada?",
+        "answer": "Ottawa"
+    },
+    "7": {
+        "question": "What is the name of the largest ocean in the world?",
+        "answer": "The Pacific Ocean"
+    },
+    "8": {
+        "question": "What present-day Italian city does Mt. Vesuvius overlook?",
+        "answer": "Naples"
+    },
+    "9": {
+        "question": "What is the name of the smallest country in the world?",
+        "answer": "The Vatican City"
+    },
+    "10": {
+        "question": "What country has the most natural lakes?",
+        "answer": "Canada"
+    }
+}
